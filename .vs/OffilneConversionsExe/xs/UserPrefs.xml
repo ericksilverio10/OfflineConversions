@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{BBDFAD7F-DE77-4AE2-B397-C6814A21694D}|Default">
+  <MonoDevelop.Ide.ItemProperties.OffilneConversionsExe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OffilneConversionsExe/Program.cs">
+    <Files>
+      <File FileName="OffilneConversionsExe/Program.cs" Line="135" Column="39" />
+      <File FileName="OffilneConversionsExe/Data/AppDbContext.cs" Line="32" Column="48" />
+      <File FileName="OffilneConversionsExe/Model/CustomerSales.cs" Line="1" Column="1" />
+      <File FileName="OffilneConversionsExe/AppConfig.cs" Line="5" Column="2" />
+      <File FileName="OffilneConversionsExe/Model/UserData.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OffilneConversionsExe" expanded="True">
+            <Node name="OffilneConversionsExe" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
