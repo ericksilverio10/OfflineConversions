@@ -19,7 +19,7 @@ namespace OfflineConversionsExe
             _context = context;
         }
 
-        static async Task Main(string[] args)
+        static void Main(string[] args)
         {
             using (var dbContext = new AppDbContext()) // Certifique-se de instanciar o DbContext corretamente
             {
@@ -131,8 +131,6 @@ namespace OfflineConversionsExe
                     string resultContent = readTask.Result;
 
                     Console.WriteLine(resultContent);
-
-                    Environment.Exit(0);
 
                 }
             }
